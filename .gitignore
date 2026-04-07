@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.csv
+*.dat
+*.pkl
+*.h5
+*.npy
+*.npz
+*.pt
+*.pth
+*.wav
+*.mp4
+*.model
